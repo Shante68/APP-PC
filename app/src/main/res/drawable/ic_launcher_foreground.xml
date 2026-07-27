@@ -1,0 +1,42 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.75"
+        android:scaleY="0.75"
+        android:translateX="13.5"
+        android:translateY="13.5">
+        <!-- CPU Chip Outer Frame -->
+        <path
+            android:fillColor="#00F0FF"
+            android:pathData="M34,34h40v40h-40z" />
+        <path
+            android:fillColor="#0B132B"
+            android:pathData="M38,38h32v32h-32z" />
+        <!-- Die / Core -->
+        <path
+            android:fillColor="#8A2BE2"
+            android:pathData="M44,44h20v20h-20z" />
+        <path
+            android:fillColor="#00F0FF"
+            android:pathData="M48,48h12v12h-12z" />
+        <!-- Pins Top -->
+        <path
+            android:fillColor="#00F0FF"
+            android:pathData="M40,22h4v12h-4zM52,22h4v12h-4zM64,22h4v12h-4z" />
+        <!-- Pins Bottom -->
+        <path
+            android:fillColor="#00F0FF"
+            android:pathData="M40,74h4v12h-4zM52,74h4v12h-4zM64,74h4v12h-4z" />
+        <!-- Pins Left -->
+        <path
+            android:fillColor="#00F0FF"
+            android:pathData="M22,40h12v4h-12zM22,52h12v4h-12zM22,64h12v4h-12z" />
+        <!-- Pins Right -->
+        <path
+            android:fillColor="#00F0FF"
+            android:pathData="M74,40h12v4h-12zM74,52h12v4h-12zM74,64h12v4h-12z" />
+    </group>
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "RigCraft - Ensamblador de PC",
+  "description": "App para ensamblar y configurar computadoras según tus necesidades: juegos, edición de video u oficina. Filtra componentes por presupuesto y marca.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
